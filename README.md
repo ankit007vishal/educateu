@@ -1,0 +1,2 @@
+# educateu
+my first website
